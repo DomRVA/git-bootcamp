@@ -4,3 +4,5 @@ our test github repository for the course
 We are about to attempt using the **pull command** in this lecture
 
 *So let's get started*
+
+This change was made locally after a pull
